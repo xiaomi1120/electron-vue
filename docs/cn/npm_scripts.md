@@ -38,6 +38,6 @@
 
 运行使用了 Spectron + Mocha 的端对端测试。更多信息请见 [**端对端测试**](unittesting.md)。
 
-### `npm test`
+### `npm test` 
 
 运行 `npm run unit` 和 `npm run e2e`. 更多信息请见 [**测试**](unittesting.md)。
